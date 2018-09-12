@@ -10,7 +10,7 @@ Para iniciar um novo repositorio local digite:
 
 > git init
 
-Para adcionar um arquivo no controle de versão faça: 
+Para adicionar um arquivo no controle de versÃ£o faÃ§a: 
 
 > git add <nome do arquivo>
 
@@ -26,6 +26,6 @@ Para configurar seu repositorio remoto digite:
 
 > git remote add origin https://github.com/username/nome-do-repositorio.git
 
-Para subir as modificações para seu git remoto digite:
+Para subir as modificaÃ§Ãµes para seu git remoto digite:
 
 > git push -u origin master
